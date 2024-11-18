@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gomes</h1>
-<h2 align="center">Brazilian Dev, Working in Argentina / Backend developer at AIVO</h2>
+<h2 align="center">27 years - Software Engineer at Itaú </h2>
 
-- 🌱 I’m currently learning **Software Architecture on FIAP, Node.JS and JAVA**
+- 🌱 I’m currently studying a postgraduate course in **Software Architecture at FIAP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
